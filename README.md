@@ -10,13 +10,13 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", Redux],
          css: ["Styled Components", "Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express", "Sequelize"],
       },
-      databases: ["mySQL"],
+      databases: ["mySQL", "sqlite"],
    }
 };
 ```
