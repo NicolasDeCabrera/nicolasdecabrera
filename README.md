@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**NicolasDeCabrera/nicolasdecabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Soy Estudiante avanzado en <a href="https://www.soyhenry.com/">Soy Henry</a>, de La Carrera de Full Stack Developer. Tambien curso la carrera de Desarrollo de Software en el <a href="https://isri.com.ar/">Instituto Superior De Redes & Informatica</a>.  😊</br>
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS,],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Styled Components", "Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express", "Sequelize"],
+      },
+      databases: ["mySQL"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
