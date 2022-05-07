@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicolas De Cabrera
 
-<p><em>Soy Estudiante avanzado de <a href="https://www.soyhenry.com/">Soy Henry</a>, de La Carrera de Full Stack Developer. Tambien curso la carrera de Desarrollo de Software en el <a href="https://isri.com.ar/">Instituto Superior De Redes & Informatica</a>.  😊</br>
+<p><em>Soy Egresado de <a href="https://www.soyhenry.com/">Soy Henry</a>, de La Carrera de Full Stack Developer. Tambien curso la carrera de Desarrollo de Software en el <a href="https://isri.com.ar/">Instituto Superior De Redes & Informatica</a>.  😊</br>
 </em></p>
 
 
