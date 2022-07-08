@@ -14,7 +14,8 @@ const aboutMe = {
          css: ["Styled Components", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Sequelize", "PHP"],
+         js: ["Node", "Express", "Sequelize"],
+         PHP: "",
       },
       databases: ["mySQL", "sqlite"],
    }
