@@ -10,14 +10,14 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", Redux],
-         css: ["Styled Components", "Bootstrap"]
+         js: ["React", "Angular", "Redux"],
+         css: ["Styled Components", "Bootstrap", "Tailwind"]
       },
       backEnd: {
-         js: ["Node", "Express", "Sequelize"],
+         js: ["Node", "Express", "Sequelize", "Mongoose"],
          PHP: true,
       },
-      databases: ["mySQL", "sqlite"],
+      databases: ["mySQL", "sqlite", "MongoDb"],
    }
 };
 ```
